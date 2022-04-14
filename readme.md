@@ -1,7 +1,1 @@
-bom dia!
-
-teste
-
-novos testes
-
-a
+realizando testes para a familiarizaçaõ da ferramenta,
