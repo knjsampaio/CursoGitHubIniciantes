@@ -1,7 +1,7 @@
 
 teste: editando o arquivo ,fazendo commit e push
 
-alguns comandos importates, ignorar os - que separam comando de comentário
+alguns comandos importantes, ignorar os - que separam comando de comentário
 
 git config global user.name - para inserir seu nome
 git config global user.email - para inserir seu email
