@@ -10,4 +10,4 @@ alguns comandos importantes, ignorar os - que separam comando de comentário
 # git add - adiciona o arquivos
 # git commit -m "insira um comentário aqui" - para realizar o commit
 # git log - verifica os logs
-# git push -u arquivo main - realiza o push
+### git push -u arquivo main - realiza o push
